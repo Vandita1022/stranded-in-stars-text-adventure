@@ -2,6 +2,8 @@
 
 A **text-based C adventure game** where you, the player, are stranded in a malfunctioning spaceship near Alpha Centauri. Navigate through rooms, complete interactive space-themed games, collect resources, and escape — if you can.
 
+![Banner](assets/banner.png)
+
 ## 📁 Files Used
 
 We used several **custom header files** and standard C libraries. File handling made the code organized and modular.
