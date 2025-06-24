@@ -77,9 +77,9 @@ gcc c_file.c -o game.exe
 ```
 
 ## 👨‍💻 Developers
-Vandita Gupta
-Mahi Upadhyay
-Pragati Rokade
+- Vandita Gupta
+- Mahi Upadhyay
+- Pragati Rokade
 
 We collaborated using GitHub and modular design with each .h file handling specific game logic.
 
