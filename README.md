@@ -73,5 +73,20 @@ We used several **custom header files** and standard C libraries. File handling 
 gcc c_file.c -o game.exe
 ./game.exe
 
+.
 
-   
+👨‍💻 Developers
+Vandita Gupta
+Mahi Upadhyay
+Pragati Rokade
+
+We collaborated using GitHub and modular design with each .h file handling specific game logic.
+
+🧾 License
+This project was built for academic purposes as part of a major project submission.
+All assets and content © 2025 by the authors.
+
+💫 Ending Note
+Stranded in Stars is more than a game — it's a journey. Every decision, every trade, and every game you win or lose brings you one step closer to home... or to the stars.
+
+Will you make it back to Earth or disappear into the black hole?
